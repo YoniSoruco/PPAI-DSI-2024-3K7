@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4kUYasjhl7/WurCS0lIiWH16u4jp/ldCDdTyg07cj6M1Weh0jmOkK7ZDd+p3pf4dDz5KiSWsj79iiiGRGxmqBQ==",
+  "success": true,
+  "projectFilePath": "D:\\UTN\\3er año ING en SI\\DSI\\PPAI\\Programacion\\BonVinoGrupo12-master\\BonVinoGrupo12\\BonVinoGrupo12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoni Soruco\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Yoni Soruco\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Yoni Soruco\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Yoni Soruco\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
